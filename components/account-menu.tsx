@@ -21,7 +21,7 @@ const AccountMenu: React.FC<AccountMenuProps> = ({ visible }) => {
         >
           <img
             className='w-8 rounded-md'
-            src='/images/default-green.png'
+            src='streaming-service-ten.vercel.app/public/images/default-green.png'
             alt='Profile'
           />
           <p className='text-white text-sm group-hover/item:underline cursor-pointer'>
